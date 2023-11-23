@@ -1,5 +1,5 @@
 # FAST_FOOD_STORE
-Simple python code for online fast food cafe (user can place an order of noodles, burger and drinks), protected from most of value errors. 
+Simple python code for online fast food cafe (user can place an order of noodles, burger and drinks), protected from most of ValueErrors. 
 Before placing an order user must pass a registration. User can either place a full order of noodles, burger and drinks or partially choose and order one or two goods from the list. 
 There's a constructor of burger in this code. User can choose amount of ingredients that they need (total amount is 9 and each ingredients has its own price) and construct their own burger. 
 If a user is younger 18 y.o. they wouldn't be able to order a beer.
